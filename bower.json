@@ -1,0 +1,21 @@
+{
+  "name": "Basement",
+  "version": "0.0.0",
+  "authors": [
+    "EragonJ <eragonj@eragonj.me>"
+  ],
+  "description": "Basement",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "2.0.0",
+    "normalize-css": "~2.1.2",
+    "angular": "angular/bower-angular#1.2.0rc1"
+  }
+}
